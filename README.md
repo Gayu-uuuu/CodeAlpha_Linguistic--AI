@@ -1,4 +1,3 @@
-Detailed Repository Description (README.md)
  Linguist AI
 Linguist AI is a high-performance, intelligent translation platform that leverages the power of Google's Gemini AI to provide accurate, context-aware translations. Designed with a focus on speed and user experience, it offers a seamless way to communicate across 18+ languages.
 ✨ Key Features
